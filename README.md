@@ -4,9 +4,9 @@ Nanomagnetic Logic (NML) devices saw a surge in popularity and then a stark decl
 
 ## Table of Contents
 
-- [Thermal Stability](thermal-stability)
-- [Complex Magnetic Interactions](complex-magnetic-interactions)
-- [Slow Magnetic Switching](slow-magnetic-switching)
-- [Fabrication Challenges](fabrication-challenges)
-- [Material Property Changes](material-property-changes)
-- [Scalability](scalability)
+- [Thermal Stability](thermal-stability/index.md)
+- [Complex Magnetic Interactions](complex-magnetic-interactions/index.md)
+- [Slow Magnetic Switching](slow-magnetic-switching/index.md)
+- [Fabrication Challenges](fabrication-challenges/index.md)
+- [Material Property Changes](material-property-changes/index.md)
+- [Scalability](scalability/index.md)
