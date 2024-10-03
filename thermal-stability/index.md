@@ -1,6 +1,6 @@
 # Thermal Stability
 
-## Overview
+## Issues
 
 Nanomagnetic Logic hinges upon the fact that nanoscale magnets can be aligned, manipulated, and relaxed into a resting state in a reliable and predicable way. As we delve into smaller scales that approach individual electron spins, these properties remain true, although they may become less resilient. Due to a lack of mass, individual spins can be affected by thermal fluctuations that will increase the overall system's error rate. [1][1] [2][2] A similar issue is faced by quantum systems, although mathematical models suggest NML devices may enjoy increased stability with increased locality. [3][3]
 
