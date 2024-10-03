@@ -28,10 +28,10 @@ To address the issue of thermal stability in Trimagnetix, we plan to:
 6. B. Lambson, "Energy Efficient Digital Logic Using Nanoscale Magnetic Devices," [UC Berk.][6] (2013)
 7. A. Dingler, S. Kurtz, M. Niemier, X. Hu, G. Csaba, J. Nahas, W. Porod, G. Bernstein, P. Li, and Vjiay Karthik Sankar, "Making Non-Volatile Nanomagnet Logic Non-Volatile", [ACM][7] **476**, 2228445 (2012)
 
-[1]: [magnetic-nanoparticles.pdf]
-[2]: [reservoir-computing.pdf]
-[3]: [damping-in-ferromagnetic-materials.pdf]
-[4]: [thermal-stability-in-nanotracks.pdf]
-[5]: [switching-energy.pdf]
-[6]: [energy-efficient-digital-logic.pdf]
-[7]: [non-volatile-nanomagnetic-logic.pdf]
+[1]: magnetic-nanoparticles.pdf
+[2]: reservoir-computing.pdf
+[3]: damping-in-ferromagnetic-materials.pdf
+[4]: thermal-stability-in-nanotracks.pdf
+[5]: switching-energy.pdf
+[6]: energy-efficient-digital-logic.pdf
+[7]: non-volatile-nanomagnetic-logic.pdf
