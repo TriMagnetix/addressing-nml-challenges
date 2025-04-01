@@ -1,6 +1,6 @@
 # Addressing NML Challenges
 
-Nanomagnetic Logic (NML) devices represent a promising contender to semiconductor computing thanks to their energy efficiency and overall resiliency. Despite these advantages, there are critical challenges that the technology needs to overcome before becoming a serious contender in the microprocessor market. Our team at Aerware Technologies has identified six major challenges, summarized their current state, and proposed solutions for each hurdle. Some of these issues have since been solved by other researchers in the field, and we have herein proposed solutions for those that remain.
+Nanomagnetic logic (NML) devices represent a promising contender to semiconductor computing thanks to their energy efficiency, radiation resistance, and interesting non-volatile logic capabilities. Despite these advantages, there are critical challenges that the technology needs to overcome before becoming a serious contender in the microprocessor market. Our team at Aerware Technologies has identified six major challenges, summarized their current state, and proposed solutions for each hurdle. Some of these issues have since been solved by other researchers in the field, and we have herein proposed solutions for those that remain.
 
 ## Table of Contents
 
