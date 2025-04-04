@@ -6,13 +6,13 @@ A core concern with nanomagnetic logic devices is whether or not its performance
 
 ## Solutions
 
-Contemporary nanomagnetic dot and inverter chain-based architectures certainly are subject to the challenges described above, but switching speed has been shown to increase in structures with multiple axes of magnetization.[3][3][4][4] Magnetic vortices in particular have been used to achieve picosecond switching speeds that are on-par with competing semiconductor technology.[5][5] Furthermore, nanomagnetic logic units of all morphologies see their switching speeds and energies decrease as their physical size decreases.[3][3] Since multi-axial structures can remain stable at nanometer scales, unlike semiconductors, they can further benefit from increased locality and a comparatively lower need for redundancy.[4][4] These factors together mean that a system of nanomagnetic triangles at such a scale would require fewer components, and the holistic system switching speed would become even more favorable compared to semiconductor counterparts.
+Contemporary nanomagnetic dot and inverter chain-based architectures certainly are subject to the challenges described above, but switching speed has been shown to increase in structures with multiple axes of magnetization.[3][3] [4][4] Magnetic vortices in particular have been used to achieve picosecond switching speeds that are on-par with competing semiconductor technology.[5][5] Furthermore, nanomagnetic logic units of all morphologies see their switching speeds and energies decrease as their physical size decreases.[3][3] Since multi-axial structures can remain stable at nanometer scales, unlike semiconductors, they can further benefit from increased locality and a comparatively lower need for redundancy.[4][4] These factors together mean that a system of nanomagnetic triangles at such a scale would require fewer components, and the holistic system switching speed would become even more favorable compared to semiconductor counterparts.
 
 ## Roadmap
 
 To ensure switching speeds that are on-part or better than semiconductor switching speeds, we plan to:
 
-1. Use multi-axial magnetic structures to facilitate quick switching speeds.
+1. Use multi-axial magnetic structures, such as nanomagnetic triangles, to facilitate quick switching speeds.
 2. Target a nanometer-scale feature size to lessen switching energy and time.
 3. Take advantage of the unique switching mechanics of multiaxial geometry to produce more complicated gates with fewer computational units.
 4. Track the current state of the system so that magnetization does not need to be switched between clock cycles.
