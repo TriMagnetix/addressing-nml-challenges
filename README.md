@@ -8,5 +8,5 @@ Nanomagnetic logic (NML) devices represent a promising contender to semiconducto
 - [Complex Magnetic Interactions](complex-magnetic-interactions/index.md)
 - [Magnetic Switching Speed](magnetic-switching-speed/index.md)
 - [Fabrication Challenges](fabrication-challenges/index.md)
-- [Write Operation Power Efficiency](material-property-changes/index.md)
+- [Write Operation Power Efficiency](write-operation-power-efficiency/index.md)
 - [Scalability](scalability/index.md)
